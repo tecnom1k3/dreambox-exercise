@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "dictionary.capacity",
+      "type": "java.lang.String",
+      "description": "defines the number of partitions for the main word dictionary."
+  }
+] }
